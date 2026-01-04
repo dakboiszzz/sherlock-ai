@@ -48,7 +48,7 @@ htmlcov/
 
 # Data (optional - depends on your needs)
 sherlock_images
-sherlock.json
+*.json
 # data/*.txt  # Uncomment if data files are large.venv/
 # Models (large files, don't commit)
 models/*.pt
